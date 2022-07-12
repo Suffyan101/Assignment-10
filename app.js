@@ -53,3 +53,11 @@
 
 
 // Question 5
+
+// var a = +prompt("Please enter the number")
+
+// function square(){
+//     document.write(a**a);
+
+// }
+// square(a)
