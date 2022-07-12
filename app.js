@@ -27,3 +27,29 @@
 
 // Question 4
 
+// var a = +prompt("Please enter First Number");
+// var b = +prompt("Please enter Second Number");
+// var c = prompt("Please enter operator e.g +,-,/,*")
+
+// function calculator(){
+//     if(c === "+"){
+//         document.write(a+b)
+//     }
+//     else if(c==="-"){
+//         document.write(a-b)
+//     }
+//     else if(c==="*"){
+//         document.write(a*b)
+//     }
+//     else if(c==="/"){
+//         document.write(a/b)
+//     }
+//     else{
+//         document.write("Entries not correct please retry")
+//     }
+// }
+
+// calculator(a,b,c)
+
+
+// Question 5
