@@ -61,3 +61,23 @@
 
 // }
 // square(a)
+
+// Question 6
+
+var a = +prompt("Please enter number");
+function factorialnumber() {
+    let answer = 1
+    if (a == 0 || a == 1) {
+        document.write(answer)
+    }
+    else {
+        for (i = a; i >= 1; i--) {
+            answer = answer*i
+
+        }
+        return answer;
+    }
+}
+
+factorialnumber(a)
+document.write(answer)
