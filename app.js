@@ -80,3 +80,18 @@
 // }
 
 // factorial(a)
+
+// Question 7
+
+// var a = +prompt("Please Enter start number")
+// var b = +prompt("Please Enter End number")
+
+// function counting(){
+//     for(i=a; i<=b;i++){
+//         document.write(i+"<br>")
+//     }
+// }
+// counting(a,b)
+
+
+// Question 8
