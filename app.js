@@ -95,3 +95,18 @@
 
 
 // Question 8
+// var a = +prompt("Please enter Base Value");
+// var b = +prompt("Please enter Perpendicular Value")
+
+// function calculateHypotenuse(){ 
+    
+//     var c = a + b
+//     document.write("Hypotenuse value "+ c +"<br>")
+//     function calculateSquare(){
+//         var h = a**2 + b**2
+//         document.write("Hypotenuse value sqaure is "+ h)
+//     }
+//     calculateSquare(a,b)
+
+// }
+// calculateHypotenuse(a,b)
