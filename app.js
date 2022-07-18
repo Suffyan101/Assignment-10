@@ -95,6 +95,7 @@
 
 
 // Question 8
+
 // var a = +prompt("Please enter Base Value");
 // var b = +prompt("Please enter Perpendicular Value")
 
@@ -111,7 +112,9 @@
 // }
 // calculateHypotenuse(a,b)
 
+
 // Question 9
+
 // var d = 25
 // var e = 2
 // function rectangular(a,b){
@@ -121,3 +124,4 @@
 // var f = rectangular(d,e)
 // document.write(a+"<br>")
 // document.write(f)
+
