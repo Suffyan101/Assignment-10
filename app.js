@@ -110,3 +110,14 @@
 
 // }
 // calculateHypotenuse(a,b)
+
+// Question 9
+// var d = 25
+// var e = 2
+// function rectangular(a,b){
+//     return a*b
+// }
+// var a = rectangular(25,225)
+// var f = rectangular(d,e)
+// document.write(a+"<br>")
+// document.write(f)
