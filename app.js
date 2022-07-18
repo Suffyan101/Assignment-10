@@ -125,3 +125,21 @@
 // document.write(a+"<br>")
 // document.write(f)
 
+// Question 10 
+
+// var a = prompt("Please Enter the word to check its palindrome or not")
+// function palindrome(){
+//     var b = a.split("").reverse().join("")
+//     if (a === b){
+//         document.write(a+" Its palindrome")
+//     }
+//     else{
+//         document.write(a+" Its not palindrome")
+//     }
+// }
+// palindrome(a)
+
+
+// Question 11
+
+
