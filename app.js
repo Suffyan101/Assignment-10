@@ -142,4 +142,16 @@
 
 // Question 11
 
+var a =  prompt("Please enter the pharase")
 
+function uppercase(){
+    var b = a.split(" ") 
+    var e;
+    for(i=0; i<=b.length;i++){
+        var c = b[i]
+        var d = c.charAt(0).toUpperCase() + c.substring(1);
+        e=+d
+    }
+    console.log(d)
+}
+uppercase(a)
