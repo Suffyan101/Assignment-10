@@ -155,21 +155,22 @@
 // Question 12
 
 // var a = prompt("Please enter phrase")
-var b = ["correspondence","like","the","development"];
+// var b = ["correspondence","like","the","development"];
 
-function maxletter(){
-    var c = b[0].length
-    var d = b[0]
-    for(var i=1; i< b.length ;i++){
-        var e = b[i].length
-        if(c < e){
-            d = b[i]
-            c = e;
+// function maxletter(){
+//     var c = b[0].length
+//     var d = b[0]
+//     for(var i=1; i< b.length ;i++){
+//         var e = b[i].length
+//         if(c < e){
+//             d = b[i]
+//             c = e;
 
-        }
+//         }
         
-    }
-    return d
-}
+//     }
+//     return d
+// }
 
-console.log(maxletter(b));
+// console.log(maxletter(b));
+
